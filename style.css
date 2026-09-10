@@ -2,4 +2,8 @@
 color: #121212;
 display: flex;
 justify-content: space-around;}
+
 .imagem-logo{width: 200px;}
+
+.sobre{background-color: rgb(255, 255, 255);
+}
